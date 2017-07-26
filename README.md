@@ -26,11 +26,14 @@ Las rutas creadas para esta aplicacion son:
   - [ Node Js - NPM ](https://nodejs.org/es/)
 
 - **Base de Datos**
-  - [ Mongoose ] (http://mongoosejs.com/) 
-  - [ Mlab ] (https://mlab.com/)
+  - [ Mongoose ](http://mongoosejs.com/) 
+  - [ Mlab ](https://mlab.com/)
+
+- **Sintaxis Documentacion**
+  - [ JSDocs ](http://usejsdoc.org/)
 
 - **Hosting**
-  - [ Heroku ] (https://dashboard.heroku.com/apps)
+  - [ Heroku ](https://dashboard.heroku.com/apps)
 
 
 [Online Demo](https://robusraffleapp.herokuapp.com/) Prueba la version de Robus Raffle Backend
